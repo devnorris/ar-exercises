@@ -37,9 +37,9 @@ gastown = Store.create(
 
 puts Store.all.count
 
-@store1 = Store.find(1)
-@store2 = Store.find(2)
-@store1.update(name: "Patagonia")
+
+
+
 
 
 
